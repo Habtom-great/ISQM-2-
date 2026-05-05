@@ -1,0 +1,6 @@
+{
+  "name": "ISQM 2 Tutor (English-Amharic)",
+  "description": "A comprehensive bilingual learning module for International Standard on Quality Management 2 (ISQM 2) with AI Voice Tutor integration.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["AI Conversational Q&A", "Bilingual Support", "Voice Narration"]
+}
